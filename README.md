@@ -144,7 +144,9 @@ By the end of this assignment, you should be able to:
 3. Output the windowed results to csv.
 
 **Key Concepts**: Time windows, watermarking, event-time processing
+
 ---
+
 ## 🎯 Running the Pipeline
 
 ### Important: Run in Separate Terminals!
@@ -163,6 +165,8 @@ Sent: {'trip_id': 'abc-123', 'driver_id': 42, ...}
 Sent: {'trip_id': 'def-456', 'driver_id': 17, ...}
 ```
 **Keep this running throughout all tasks!**
+
+---
 
 ### Terminal 2: Run Task 1 (2-3 minutes)
 ```bash
@@ -197,6 +201,8 @@ Batch 1: 2 rows
 ```
 
 **Stop after 2-3 minutes** (Ctrl+C) once you have several batches.
+
+---
 
 ### Terminal 3: Run Task 2 (2-3 minutes)
 ```bash
